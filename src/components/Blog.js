@@ -298,7 +298,7 @@ export default function Blog() {
       </Container>
       <Footer
         title="Alumnos"
-        description="Noelia García C.I. 13.642.289"
+        description="Noelia García && Jonathan Tabares"
       />
     </ThemeProvider>
   );
