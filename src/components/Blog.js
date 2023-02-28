@@ -297,8 +297,8 @@ export default function Blog() {
         </main>
       </Container>
       <Footer
-        title="Footer"
-        description="Something here to give the footer a purpose!"
+        title="Alumnos"
+        description="Noelia García C.I. 13.642.289"
       />
     </ThemeProvider>
   );
