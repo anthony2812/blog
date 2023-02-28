@@ -26,7 +26,7 @@ const sections = [
 const mainFeaturedPost = {
   title: 'El Derecho Colectivo y La Función Pública',
   description:
-    "La Administración y Gestión de Talento Humano está regulada por las distintas normativas  que regulan las relaciones laborales entre empleados y empleadores.",
+    "La Administración y Gestión de Talento Humano se desarrolla a través de las distintas normas que rigen las relaciones laborales entre empleados y empleadores",
   image: 'http://2.bp.blogspot.com/-K9XW-7iwAng/UEVXnm7E3zI/AAAAAAAAABc/eOlQv7UrhJE/s1600/red+humana.jpg',
   imageText: 'main image description',
 
@@ -34,7 +34,7 @@ const mainFeaturedPost = {
 
 const generalTitlesPost = [
   {
-    title: 'Derechos colectivos',
+    title: 'Derecho colectivo',
     
 
   },
